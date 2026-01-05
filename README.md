@@ -33,7 +33,7 @@ Analysts must interpret incomplete signals, correlate context, form hypotheses, 
 
 ## 🧩 SOC / DFIR Toolchain Context
 
-![DFIR Toolchain](docs/dfir_toolchain_diagram.png)
+![SOC Investigation Flow](docs/soc_investigation_flow.png)
 
 This assistant operates at the **investigation reasoning layer** of a SOC workflow.
 
