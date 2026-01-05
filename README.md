@@ -31,7 +31,7 @@ Analysts must interpret incomplete signals, correlate context, form hypotheses, 
 
 ---
 
-## 🧩 SOC / DFIR Toolchain Context
+## 🧩 SOC Investigation Context
 
 ![SOC Investigation Flow](docs/soc_investigation_flow.png)
 
