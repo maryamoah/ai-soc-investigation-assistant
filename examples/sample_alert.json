@@ -1,0 +1,10 @@
+{
+  "alert_type": "Suspicious outbound connection",
+  "source": "Firewall",
+  "severity": "Medium",
+  "summary": "Outbound connection to rare external IP from internal server",
+  "context": {
+    "asset_type": "Linux server",
+    "environment": "University network"
+  }
+}
